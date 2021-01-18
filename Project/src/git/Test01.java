@@ -1,0 +1,12 @@
+package git;
+
+public class Test01 {
+
+	public static void main(String[] args) {
+	   String name = "¹Úµ¿¹Î";
+	   String name1 = "±è¼ÒÁ¤";
+	   System.out.println(name+"-¿¬¾ÖÁß-"+name1);
+
+	}
+
+}
