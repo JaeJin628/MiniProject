@@ -6,6 +6,7 @@ public class Test01 {
 	   String name = "박동민";
 	   String name1 = "김소정";
 	   System.out.println(name+"-연애중-"+name1);
+	   System.out.println("테스트진행중");
 
 	}
 
